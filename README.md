@@ -1,5 +1,8 @@
-# 👋 Hi, I'm Huseyin Altas  
 
+# 👋 Hi, I'm Huseyin Altas  
+*“Quality is never an accident; it is always the result of intelligent effort.”*
+
+![](https://komarev.com/ghpvc/?username=huseyinaltas)
 **Software Engineer | Test Automation Engineer | Cloud & AI Enthusiast**  
 
 ---
@@ -74,14 +77,12 @@ SonarQube
 
 ## 📫 Connect with Me
 - GitHub: [@huseyinaltas](https://github.com/huseyinaltas)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Email: youremail@example.com  
+- LinkedIn: [https://www.linkedin.com/in/huseyin-altas-ab3113183/](https://www.linkedin.com/in/huseyin-altas-ab3113183/)  
+- Email: altasdallas@gmail.com  
 
 ---
 
-*“Quality is never an accident; it is always the result of intelligent effort.”*
 
-![](https://komarev.com/ghpvc/?username=huseyinaltas)
 
 <!--
 **huseyinaltas/huseyinaltas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
