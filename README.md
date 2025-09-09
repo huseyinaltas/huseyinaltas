@@ -2,9 +2,9 @@
 # 👋 Hi, I'm Huseyin Altas  
 *“Quality is never an accident; it is always the result of intelligent effort.”*
 
-![](https://komarev.com/ghpvc/?username=huseyinaltas)
 **Software Engineer | Test Automation Engineer | Cloud & AI Enthusiast**  
 
+![](https://komarev.com/ghpvc/?username=huseyinaltas)
 ---
 
 ## 💻 About Me
